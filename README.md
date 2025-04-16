@@ -1,4 +1,4 @@
-📊 Excel Column Extractor Script (Python)
+📊 Excel Column Extractor Script (Python)-
 This Python script is designed to automate the extraction of specific columns from an Excel sheet and save the results into a new file. It’s ideal for handling large deliverables or data logs where only selected data fields are needed.
 
 🔧 Features
